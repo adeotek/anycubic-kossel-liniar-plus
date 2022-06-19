@@ -3,7 +3,8 @@ Merlin Firmware configuration & resources
 
 ## Merlin Firmware version
 ```
-2.1.
+SHORT_BUILD_VERSION "bugfix-2.1.x"
+STRING_DISTRIBUTION_DATE "2022-06-18"
 ```
 
 ## Configuration version
@@ -12,4 +13,4 @@ Merlin Firmware configuration & resources
 ```
 
 ### Notes
-- 
+- Liniar advanced enabled

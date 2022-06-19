@@ -12,4 +12,4 @@
 ```
 
 ### Notes
-- Working version with Liniar Advanced 
+- Working version with Liniar Advanced enabled
