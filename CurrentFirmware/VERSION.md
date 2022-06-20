@@ -9,9 +9,10 @@ STRING_DISTRIBUTION_DATE "2022-06-04"
 
 ## Configuration
 ```
-Configuration.h file version: 2022-06-20-1
-Configuration_adv.h file version: 2022-06-19-1
+Configuration.h file version: 2022-06-20-3
+Configuration_adv.h file version: 2022-06-20-3
 ```
 
 ### Notes
-- Liniar advanced disabled (due to conflict with S_CURVE_)
+- LIN_ADVANCE enabled & S_CURVE_ACCELERATION disabled
+- HOST_ACTION_COMMANDS enabled
