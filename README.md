@@ -4,8 +4,8 @@ Merlin Firmware configuration & resources.
 
 ## Current Firmware
 ### v2.1.x
-- SHORT_BUILD_VERSION "bugfix-2.1.x"
-- STRING_DISTRIBUTION_DATE "2022-06-18"
+- SHORT_BUILD_VERSION "2.1"
+- STRING_DISTRIBUTION_DATE "2022-06-04"
 - Configuration version: "2022-06-19-1"
 
 ### Notes
