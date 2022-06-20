@@ -9,7 +9,7 @@ STRING_DISTRIBUTION_DATE "2022-06-04"
 
 ## Configuration
 ```
-Configuration.h file version: 2022-06-19-1
+Configuration.h file version: 2022-06-20-1
 Configuration_adv.h file version: 2022-06-19-1
 ```
 
